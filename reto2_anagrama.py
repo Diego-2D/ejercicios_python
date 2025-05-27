@@ -1,6 +1,9 @@
 #Reto 2
 
-#Anagrama
+"""
+Hacer un programa que reciba dos plabras por parametros
+y las compre para determonar si es un Anagrama
+"""
 
 palabra1 = input('Escriba una Palabra: ')
 palabra2 = input ('Esceiba una segunda palabra: ')

@@ -1,6 +1,11 @@
 #Reto 3 
 #Dificil
 
+"""
+Hacer una secuencia de fibonacci del o al 100
+
+"""
+
 def fibonacci ():
     numero1 = 0
     numero2 = 1
